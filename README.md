@@ -1,6 +1,6 @@
 # CBdatascraper
 CB data scraper is meant to be a scraping script for retrieving official exchange rates from Central Banks' websites.
-This maybe come for use for those companies which have to keep track in case of international invoicing.
+This maybe useful for those companies which have to keep track of official exchange rates for international invoicing.
 
 ## Installation
 CBdatascraper is meant to be used with Selenium and Firefox. Installation instructions are the following.
